@@ -18,7 +18,7 @@ html{
 
 body{
     background-color: hsl(212, 45%, 89%);
-    font-family: ubunto,sans-serif;
+    font-family: [Outfit](https://fonts.google.com/specimen/Outfit);
 }
 
 /*********************
@@ -37,9 +37,7 @@ body{
     html{
         font-size: 50%;
     }
-    img{
-        width: 30%;
-    }
+    
 }
 @media(max-width:600px){
     html{
@@ -94,3 +92,22 @@ p{
     font-size: 1.4rem;
     color:  hsl(220, 15%, 55%);
 }
+
+
+
+
+
+
+
+
+
+
+
+/* 
+I've just completed a front-end coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://www.frontendmentor.io/solutions/containerdisplaypaddinggapborderradiusemedia-queriesheight-01axCP6v0i
+
+Any suggestions on how I can improve are welcome!
+
+*/
